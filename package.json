@@ -1,0 +1,18 @@
+{
+  "name": "slot-to-kecil",
+  "main": "./lib/slot-to-kecil",
+  "version": "1.0.0",
+  "description": "Ini Web Rekomendasi Bo Slot To Kecil Tanpa Potongan",
+  "keywords": ["game slot terbaik","agentotoplay slot","agentoto slot","slot online gampang menang","slot online","slot online cq9"],
+
+  "activationCommands": {
+    "atom-workspace": "slot-to-kecil:toggle"
+  },
+  "repository": "https://github.com/slotjuditerbaik/slot-to-kecil",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

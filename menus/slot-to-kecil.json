@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle slot-to-kecil",
+        "command": "slot-to-kecil:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "slot-to-kecil",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "slot-to-kecil:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
