@@ -3,9 +3,9 @@
 <details open><summary><b>Show / Hide Ads</b></summary>
 
 # [Akun Demo Rekomendasi Bo Slot To Kecil No 1 Indonesia](https://atom.io/packages/slot-to-kecil)
-## :top: klik untuk [Mulai Deposit Sekarang](https://agentotoplay.net/promo/) :cake: <<< 
-## :o: klik untuk [Daftar Sekarang](https://agentotoplay.net/promo/) :star2: <<< 
-## :top: klik untuk [Daftar Sekarang](https://agentotoplay.net/) :dart: <<< 
+## :top: klik untuk [Mulai Deposit Sekarang](https://golinkurl.github.io/promo/) :cake: <<< 
+## :o: klik untuk [Daftar Sekarang](https://golinkurl.github.io/promo/) :star2: <<< 
+## :top: klik untuk [Daftar Sekarang](https://golinkurl.github.io/) :dart: <<< 
 
 ## Informasi Situs /Server Kami : 
 
